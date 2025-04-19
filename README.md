@@ -156,4 +156,4 @@ Desenvolvido por Yasmim Merklein como parte do Trabalho de Conclusão de Curso n
 
 ---
 
-**Nota**: Para utilizar os recursos de IA, é necessário configurar uma chave API válida do OpenRouter. Na página de Configurações do sistema, você pode inserir sua chave de API para habilitar as recomendações personalizadas.
+**Nota**: Para utilizar os recursos de IA, é necessário configurar uma chave API válida do OpenRouter. Na página de Configurações do sistema, você pode inserir sua chave de API para habilitar as recomendações personalizadas. 
