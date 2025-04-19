@@ -1,6 +1,6 @@
 # Sistema Educacional Unicesumar
 
-![Logo Unicesumar](assets/logo_uni_v2.jpg)
+<img src="assets/logo_uni_v2.jpg" alt="Logo Unicesumar" width="200"/>
 
 ## 📋 Descrição
 
